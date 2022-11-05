@@ -4,6 +4,9 @@
  <img alt="YOUR-ALT-TEXT" src="Image contains text (Gibson uwhetu)">
 </picture>
 
+## A diligent and Seasoned Software developer who is passionate about self‑learning and reading with over two years of hands‑on experience In building Scalable softwares
+
+# ABOUT ME
 
 
 
