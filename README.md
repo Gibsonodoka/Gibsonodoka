@@ -21,7 +21,7 @@
 
 
 # CONNECT WITH ME
-https://twitter.com/gibson_uwhetu
+<a href="https://twitter.com/gibson_uwhetu" target="blank"> <img align="left" src="https://raw.githubusercontent.com/Gibsonodoka/Gibsonodoka/main/img/fb1.png" width="22" height="22"/></a>
 <!---
 Gibsonodoka/Gibsonodoka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
