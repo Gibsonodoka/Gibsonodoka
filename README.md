@@ -25,6 +25,9 @@
 <a href="https://www.instagram.com/gibson_uwhetu" target="blank"> <img align="left" src="https://raw.githubusercontent.com/Gibsonodoka/Gibsonodoka/main/img/ig2.png" width="30" height="30"/></a>
 <a href="https://ng.linkedin.com/in/uwhetu-gibson-449b92150" target="blank"> <img align="left" src="https://raw.githubusercontent.com/Gibsonodoka/Gibsonodoka/main/img/in1.png" width="30" height="30"/></a>
 <a href="#" target="blank"> <img align="left" src="https://raw.githubusercontent.com/Gibsonodoka/Gibsonodoka/main/img/fb1.png" width="30" height="30"/></a>
+
+# TECHNOLOGIES & TOOLS
+
 <!---
 Gibsonodoka/Gibsonodoka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
