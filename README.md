@@ -13,11 +13,12 @@
 
 
 
-- 👋 Hi, I’m @Gibsonodoka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🔭 I’m currently working on [My_Profile](https://github.com/Gibsonodoka)
+- 🌱 I’m currently learning **Cloud Engineering**
+- 📝 I regularly write articles on [Twitter](https://www.twitter.com)
+- 💬 Ask me about **NodeJS, IBMCLOUD, Web App, React, MongoDB**
+- 📫 How to reach me **odokauwhetu@gmail.com**
+- ⚡ Fun fact **I like to play the piano to relax my mind**
 
 
 ## CONNECT WITH ME
