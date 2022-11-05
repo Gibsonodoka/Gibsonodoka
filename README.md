@@ -49,7 +49,6 @@
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gibsonodoka&show_icons=true&locale=en&layout=compact" alt="Gibsonodoka" />
  </p>
- <br>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gibsonodoka&show_icons=true&locale=en" alt="Gibsonodoka" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gibsonodoka&" alt="Gibsonodoka" /></p>
 <!---
