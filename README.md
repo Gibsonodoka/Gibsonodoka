@@ -44,11 +44,12 @@
 <a href="#" target="blank"> <img align="left" src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" width="30" height="30"/></a>
 
 <br>
-## MY STATS
+<h1> MY STATS </h1>
 <p>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gibsonodoka&show_icons=true&locale=en&layout=compact" alt="Gibsonodoka" /></p>
-
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gibsonodoka&show_icons=true&locale=en&layout=compact" alt="Gibsonodoka" />
  </p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Faitholo&show_icons=true&locale=en" alt="Faitholo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Faitholo&" alt="Faitholo" /></p>
 <!---
 Gibsonodoka/Gibsonodoka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
