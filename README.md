@@ -45,7 +45,7 @@
 <a href="#" target="blank"> <img align="left" src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" width="30" height="30"/></a>
 
 <br>
-<h1> MY STATS </h1>
+<h2> MY STATS </h2>
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gibsonodoka&show_icons=true&locale=en&layout=compact" alt="Gibsonodoka" />
  </p>
