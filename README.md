@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gibsonodoka/Gibsonodoka/main/Gibson.png">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gibsonodoka/Gibsonodoka/main/Gibson.png">
- <img alt="YOUR-ALT-TEXT" src="Image contains text (Gibson uwhetu)">
+ <img alt="Image contains text (Gibson uwhetu Software developer)" src="Image contains text (Gibson uwhetu)">
 </picture>
 
 ## A Diligent and Seasoned Software developer who is passionate about self‑learning and reading with over two years of hands‑on experience In building Scalable softwares
