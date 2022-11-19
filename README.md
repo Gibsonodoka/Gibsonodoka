@@ -4,7 +4,7 @@
  <img alt="Image contains text (Gibson uwhetu Software developer)" src="Image contains text (Gibson uwhetu)">
 </picture>
 
-## A diligent and seasoned Software developer who is passionate about self‑learning and reading with over two years of hands‑on experience In building Scalable softwares
+## A diligent and seasoned Software developer who is passionate about self‑learning and reading with over two years of hands‑on experience In building Scalable softwares!
 
 ## ABOUT ME
 
