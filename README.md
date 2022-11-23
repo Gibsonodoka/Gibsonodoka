@@ -21,7 +21,7 @@
 - ⚡ Fun fact **I like to play the piano to calm my nerves**
 
 
-## CONNECT WITH ME
+## CONNECT WITH ME ON SOCIALS
 
 
 <a href="https://twitter.com/gibson_uwhetu" target="blank"> <img align="left" src="https://raw.githubusercontent.com/Gibsonodoka/Gibsonodoka/main/img/tw.png" width="30" height="30"/></a>
