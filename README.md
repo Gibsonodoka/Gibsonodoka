@@ -6,7 +6,7 @@
 
 #### A diligent and seasoned Software developer who is passionate about self‑learning and reading with over two years of hands‑on experience In building Scalable softwares!
 
-## ABOUT ME
+## ABOUT ME 
 
 
 
@@ -21,7 +21,7 @@
 - ⚡ Fun fact **I like to play the piano to calm my nerves**
 
 
-## CONNECT WITH ME ON SOCIALS
+## CONNECT WITH ME ON SOCIAL
 
 
 <a href="https://twitter.com/gibson_uwhetu" target="blank"> <img align="left" src="https://raw.githubusercontent.com/Gibsonodoka/Gibsonodoka/main/img/tw.png" width="30" height="30"/></a>
