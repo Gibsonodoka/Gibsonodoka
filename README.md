@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on [My_Profile](https://github.com/Gibsonodoka)
-- 🌱 I’m currently learning tge following 
+- 🌱 I’m currently learning the following 
 - **Cloud Engineering**
 - 📝 I regularly write articles on [Twitter](https://www.twitter.com)
 - 💬 Ask me about **NodeJS, IBMCLOUD, AWS, React,MIcrosoft azure, MongoDB**
