@@ -6,7 +6,7 @@
 
 #### A diligent and seasoned Software developer passionate about self‑learning and reading with over two years of hands‑on experience In building Scalable softwares!
 
-## ABOUT ME 
+### ABOUT ME 
 
 
 
